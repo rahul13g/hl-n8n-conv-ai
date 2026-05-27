@@ -1,6 +1,6 @@
 # LetsGo Travel — Hooman Labs n8n Integration
 
-Outbound AI voice agent (Raju) built on Hooman Labs. Two n8n workflows handle the full lead lifecycle — from Google Sheets to call to CRM update.
+Outbound AI voice agent (Raju) built on Hooman Labs. Two n8n workflows handle the full lead lifecycle — from Google Sheets (CRM).
 
 ---
 
